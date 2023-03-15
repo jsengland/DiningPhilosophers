@@ -1,0 +1,1680 @@
+philosopher #0 is thinking
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+philosopher #3 is thinking
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #2 is thinking
+
+philosopher #3 is eating
+
+philosopher #6 is thinking
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #6 is eating
+
+philosopher #0 is thinking
+
+philosopher #1 is thinking
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+Philosopher #3 puts down fork 3
+
+philosopher #1 is eating
+
+Philosopher #3 puts down fork 4
+
+philosopher #3 is thinking
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #3 is eating
+
+philosopher #4 is thinking
+
+philosopher #5 is thinking
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #3 is thinking
+
+philosopher #4 is eating
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #2 is eating
+
+philosopher #1 is thinking
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #6 is thinking
+
+philosopher #0 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+philosopher #2 is thinking
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #2 is eating
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #0 is thinking
+
+philosopher #6 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #2 is thinking
+
+philosopher #1 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #4 is thinking
+
+philosopher #3 is eating
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #6 is thinking
+
+philosopher #5 is eating
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+philosopher #1 is thinking
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+philosopher #5 is thinking
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #5 is eating
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #3 is thinking
+
+philosopher #2 is eating
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+philosopher #0 is thinking
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #5 is thinking
+
+philosopher #4 is eating
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #0 is thinking
+
+philosopher #6 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+philosopher #4 is thinking
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #4 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #2 is thinking
+
+philosopher #1 is eating
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+philosopher #6 is thinking
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+Philosopher #1 puts down fork 1
+
+philosopher #6 is eating
+
+Philosopher #1 puts down fork 2
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #1 is thinking
+
+philosopher #2 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+philosopher #4 is thinking
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #4 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+philosopher #4 is thinking
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #4 is eating
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #6 is thinking
+
+philosopher #0 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #4 is thinking
+
+philosopher #5 is eating
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+philosopher #0 is thinking
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #2 is thinking
+
+philosopher #3 is eating
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #0 is thinking
+
+philosopher #1 is eating
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+philosopher #3 is thinking
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+Philosopher #5 puts down fork 5
+
+philosopher #3 is eating
+
+Philosopher #5 puts down fork 6
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #5 is thinking
+
+philosopher #6 is eating
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #3 is thinking
+
+philosopher #4 is eating
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+philosopher #6 is thinking
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+Philosopher #1 puts down fork 1
+
+philosopher #6 is eating
+
+Philosopher #1 puts down fork 2
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #1 is thinking
+
+philosopher #2 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+philosopher #4 is thinking
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #2 is thinking
+
+philosopher #4 is eating
+
+philosopher #1 is eating
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+philosopher #6 is thinking
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+Philosopher #4 puts down fork 4
+
+philosopher #6 is eating
+
+Philosopher #4 puts down fork 5
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #4 is thinking
+
+philosopher #3 is eating
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+philosopher #1 is thinking
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #1 is eating
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #5 is eating
+
+philosopher #6 is thinking
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+philosopher #3 is thinking
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+Philosopher #5 puts down fork 5
+
+philosopher #3 is eating
+
+Philosopher #5 puts down fork 6
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #5 is thinking
+
+philosopher #6 is eating
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #3 is thinking
+
+philosopher #4 is eating
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+philosopher #6 is thinking
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+Philosopher #1 puts down fork 1
+
+philosopher #6 is eating
+
+Philosopher #1 puts down fork 2
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #2 is eating
+
+philosopher #1 is thinking
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+philosopher #4 is thinking
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+Philosopher #2 puts down fork 2
+
+philosopher #4 is eating
+
+Philosopher #2 puts down fork 3
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #1 is eating
+
+philosopher #2 is thinking
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+philosopher #6 is thinking
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #6 is eating
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #1 is thinking
+
+philosopher #2 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+philosopher #4 is thinking
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+Philosopher #6 puts down fork 6
+
+philosopher #4 is eating
+
+Philosopher #6 puts down fork 0
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+philosopher #6 is thinking
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #4 is thinking
+
+philosopher #5 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #2 is thinking
+
+philosopher #3 is eating
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #0 is thinking
+
+philosopher #1 is eating
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+philosopher #3 is thinking
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+Philosopher #5 puts down fork 5
+
+philosopher #3 is eating
+
+Philosopher #5 puts down fork 6
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #6 is eating
+
+philosopher #5 is thinking
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #3 is thinking
+
+philosopher #4 is eating
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+philosopher #6 is thinking
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+Philosopher #1 puts down fork 1
+
+philosopher #6 is eating
+
+Philosopher #1 puts down fork 2
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #1 is thinking
+
+philosopher #2 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+philosopher #4 is thinking
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+Philosopher #6 puts down fork 6
+
+philosopher #4 is eating
+
+Philosopher #6 puts down fork 0
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+philosopher #6 is thinking
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #4 is thinking
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+philosopher #5 is eating
+
+philosopher #0 is thinking
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+Philosopher #5 puts down fork 5
+
+philosopher #0 is eating
+
+Philosopher #5 puts down fork 6
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #5 is thinking
+
+philosopher #4 is eating
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #6 is eating
+
+philosopher #0 is thinking
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+philosopher #4 is thinking
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #4 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #2 is thinking
+
+philosopher #1 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #3 is eating
+
+philosopher #4 is thinking
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+philosopher #1 is thinking
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+Philosopher #6 puts down fork 6
+
+philosopher #1 is eating
+
+Philosopher #6 puts down fork 0
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #5 is eating
+
+philosopher #6 is thinking
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+philosopher #1 is thinking
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #3 is thinking
+
+philosopher #2 is eating
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+philosopher #0 is thinking
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #3 is eating
+
+philosopher #2 is thinking
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+philosopher #5 is thinking
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #5 is eating
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #2 is eating
+
+philosopher #3 is thinking
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #5 is thinking
+
+philosopher #4 is eating
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #0 is thinking
+
+philosopher #6 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+philosopher #4 is thinking
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #4 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #2 is thinking
+
+philosopher #1 is eating
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+philosopher #6 is thinking
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #6 is eating
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #1 is thinking
+
+philosopher #2 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+philosopher #4 is thinking
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #4 is eating
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+philosopher #6 is thinking
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+philosopher #2 is thinking
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+Philosopher #0 puts down fork 0
+
+philosopher #2 is eating
+
+Philosopher #0 puts down fork 1
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #0 is thinking
+
+philosopher #6 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+philosopher #4 is thinking
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #4 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #2 is thinking
+
+philosopher #1 is eating
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+philosopher #6 is thinking
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+Philosopher #4 puts down fork 4
+
+philosopher #6 is eating
+
+Philosopher #4 puts down fork 5
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #4 is thinking
+
+philosopher #3 is eating
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+philosopher #1 is thinking
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+Philosopher #6 puts down fork 6
+
+philosopher #1 is eating
+
+Philosopher #6 puts down fork 0
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #6 is thinking
+
+philosopher #5 is eating
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+philosopher #1 is thinking
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+philosopher #5 is thinking
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #5 is eating
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #3 is thinking
+
+philosopher #2 is eating
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #4 is eating
+
+philosopher #5 is thinking
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #6 is eating
+
+philosopher #0 is thinking
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #2 is thinking
+
+philosopher #1 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #3 is eating
+
+philosopher #4 is thinking
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+philosopher #1 is thinking
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+Philosopher #6 puts down fork 6
+
+philosopher #1 is eating
+
+Philosopher #6 puts down fork 0
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #5 is eating
+
+philosopher #6 is thinking
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+philosopher #1 is thinking
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+philosopher #5 is thinking
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #5 is eating
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #2 is eating
+
+philosopher #3 is thinking
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+Philosopher #4 picks up fork 4
+
+Philosopher #4 picks up fork 5
+
+philosopher #4 is eating
+
+philosopher #5 is thinking
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+philosopher #2 is thinking
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #2 is eating
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #0 is thinking
+
+Philosopher #2 puts down fork 2
+
+philosopher #6 is eating
+
+Philosopher #2 puts down fork 3
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #1 is eating
+
+philosopher #2 is thinking
+
+Philosopher #6 puts down fork 6
+
+Philosopher #6 puts down fork 0
+
+philosopher #6 is thinking
+
+Philosopher #6 picks up fork 6
+
+Philosopher #6 picks up fork 0
+
+philosopher #6 is eating
+
+Philosopher #4 puts down fork 4
+
+Philosopher #4 puts down fork 5
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+Philosopher #1 puts down fork 1
+
+philosopher #3 is eating
+
+Philosopher #1 puts down fork 2
+
+philosopher #1 is thinking
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+Philosopher #6 puts down fork 6
+
+philosopher #1 is eating
+
+Philosopher #6 puts down fork 0
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #5 is eating
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+philosopher #3 is thinking
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #3 is eating
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+philosopher #1 is thinking
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #2 is eating
+
+philosopher #3 is thinking
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+philosopher #0 is thinking
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+Philosopher #5 puts down fork 5
+
+philosopher #0 is eating
+
+Philosopher #5 puts down fork 6
+
+philosopher #5 is thinking
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #5 is eating
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+philosopher #0 is thinking
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #3 is eating
+
+philosopher #2 is thinking
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #0 is thinking
+
+philosopher #1 is eating
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+philosopher #3 is thinking
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #3 is eating
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+philosopher #5 is thinking
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+Philosopher #1 puts down fork 1
+
+philosopher #5 is eating
+
+Philosopher #1 puts down fork 2
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #1 is thinking
+
+philosopher #0 is eating
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+philosopher #5 is thinking
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+Philosopher #3 puts down fork 3
+
+philosopher #5 is eating
+
+Philosopher #3 puts down fork 4
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #3 is thinking
+
+philosopher #2 is eating
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+philosopher #5 is thinking
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+Philosopher #0 puts down fork 0
+
+philosopher #5 is eating
+
+Philosopher #0 puts down fork 1
+
+philosopher #0 is thinking
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+Philosopher #2 puts down fork 2
+
+philosopher #0 is eating
+
+Philosopher #2 puts down fork 3
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #3 is eating
+
+philosopher #2 is thinking
+
+Philosopher #0 puts down fork 0
+
+Philosopher #0 puts down fork 1
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+philosopher #1 is eating
+
+philosopher #0 is thinking
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+philosopher #3 is thinking
+
+Philosopher #3 picks up fork 3
+
+Philosopher #3 picks up fork 4
+
+philosopher #3 is eating
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+philosopher #5 is thinking
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+Philosopher #1 puts down fork 1
+
+philosopher #5 is eating
+
+Philosopher #1 puts down fork 2
+
+Philosopher #0 picks up fork 0
+
+Philosopher #0 picks up fork 1
+
+philosopher #0 is eating
+
+philosopher #1 is thinking
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+philosopher #5 is thinking
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+philosopher #5 is eating
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #2 is eating
+
+philosopher #3 is thinking
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+philosopher #5 is thinking
+
+Philosopher #5 picks up fork 5
+
+Philosopher #5 picks up fork 6
+
+Philosopher #0 puts down fork 0
+
+philosopher #5 is eating
+
+Philosopher #0 puts down fork 1
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+Philosopher #1 picks up fork 1
+
+Philosopher #1 picks up fork 2
+
+Philosopher #3 picks up fork 3
+
+philosopher #1 is eating
+
+Philosopher #3 picks up fork 4
+
+philosopher #2 is thinking
+
+philosopher #3 is eating
+
+Philosopher #1 puts down fork 1
+
+Philosopher #1 puts down fork 2
+
+Philosopher #5 puts down fork 5
+
+Philosopher #5 puts down fork 6
+
+Philosopher #3 puts down fork 3
+
+Philosopher #3 puts down fork 4
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #2 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
+philosopher #2 is thinking
+
+Philosopher #2 picks up fork 2
+
+Philosopher #2 picks up fork 3
+
+philosopher #2 is eating
+
+Philosopher #2 puts down fork 2
+
+Philosopher #2 puts down fork 3
+
